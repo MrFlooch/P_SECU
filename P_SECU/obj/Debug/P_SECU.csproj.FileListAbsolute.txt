@@ -1,0 +1,14 @@
+D:\Trimestre 4\P_SECU\P_SECU\P_SECU\obj\Debug\P_SECU.csproj.AssemblyReference.cache
+D:\Trimestre 4\P_SECU\P_SECU\P_SECU\obj\Debug\P_SECU.csproj.CoreCompileInputs.cache
+D:\Trimestre 4\P_SECU\P_SECU\P_SECU\bin\Debug\P_SECU.exe.config
+D:\Trimestre 4\P_SECU\P_SECU\P_SECU\bin\Debug\P_SECU.exe
+D:\Trimestre 4\P_SECU\P_SECU\P_SECU\bin\Debug\P_SECU.pdb
+D:\Trimestre 4\P_SECU\P_SECU\P_SECU\obj\Debug\P_SECU.exe
+D:\Trimestre 4\P_SECU\P_SECU\P_SECU\obj\Debug\P_SECU.pdb
+F:\Trimestre 4\P_SECU\P_SECU\P_SECU\bin\Debug\P_SECU.exe.config
+F:\Trimestre 4\P_SECU\P_SECU\P_SECU\bin\Debug\P_SECU.exe
+F:\Trimestre 4\P_SECU\P_SECU\P_SECU\bin\Debug\P_SECU.pdb
+F:\Trimestre 4\P_SECU\P_SECU\P_SECU\obj\Debug\P_SECU.csproj.AssemblyReference.cache
+F:\Trimestre 4\P_SECU\P_SECU\P_SECU\obj\Debug\P_SECU.csproj.CoreCompileInputs.cache
+F:\Trimestre 4\P_SECU\P_SECU\P_SECU\obj\Debug\P_SECU.exe
+F:\Trimestre 4\P_SECU\P_SECU\P_SECU\obj\Debug\P_SECU.pdb
